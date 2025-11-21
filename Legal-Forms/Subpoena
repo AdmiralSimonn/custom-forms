@@ -2,6 +2,7 @@
 
 [head=2]SUBPOENA DUCES TECUM[/head]
 
+<Remove Duces Tecum if physical evidence is not needed>
                             [color=#1b487e]╔══════════════════╗
                             ║███░███░░░░██░░░░░║
                             ║░██░████░░░██░░░░░║
@@ -11,20 +12,19 @@
                             ╚══════════════════╝[/color]
 
 [head=3]TO:[/head]
-     [color=#002AAF]Sample 1st Party[/color]
+     [color=#002AAF]Sample Party[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [head=3]FROM:[/head]
-     [color=#002AAF]Sample 1st Party[/color]
+     [color=#002AAF]Sample Party[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[head=3]DEPARTMENT:[/head]
-     [color=#002AAF]Sample 1st Party[/color]
+     [color=#002AAF]Sample Party[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold] YOU ARE COMMANDED [/bold] to appear before the local NanoTrasen Court of Space, or produce the following documents at, on, or before [color=#002AAF]Month, Date, XX:XX[/color]
-
+[head=4][bold] YOU ARE COMMANDED [/bold][/head] to appear before the local NanoTrasen Court of Space, or produce the following documents at, on, or before [color=#002AAF]Month, Date, XX:XX[/color]
 
 
 [bolditalic] FAILURE TO APPEAR OR PRODUCE THE REQUESTED ITEMS MAY RESULT IN PENALTIES INCLUDING FINES OR ARREST [/bolditalic]
 
-[head=3]DOCUMENTS TO BE PRODUCED:[/head]
+[head=3]TO BE PRODUCED:[/head]
 
 (  ) NT Employee File / Medical History
 (  ) Legal Documentation
@@ -33,11 +33,26 @@
   - 	(  ) Arrest Records
 (  ) Department Documentation
   -  (  ) NT Employee File
-(  ) Other:    [color=#002AAF]Sample other[/color]
+(  ) Other:    [color=#002AAF] Other[/color]
                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
-1st Party's Signature
+[head=3]TO BE PRESENT:[/head]
+
+
+<Remove if Needed>
+| -   [color=#002AAF]Sample Name[/color]
+    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+| -   [color=#002AAF]Sample Name[/color]
+    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+//////////////////////////////////////////////////////////////////
+
+
+[bold] Attorney or Presiding Judge Printed Name [/bold]
 
   [color=#002AAF]Sample[/color]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-2nd Party's Signature
+
+[bold] Attorney or Presiding Judge Signature [/bold]
+
+
+
